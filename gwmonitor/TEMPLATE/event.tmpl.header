@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<h1><center>DTP FAILURE EVENT NOTIFICATION</center></h1>
+<br><br>
+
+<table style="width:80%"  border="1" align="center">
+<tr><td style="width:40%" bgcolor="AFBCBE">MONITOR INTERVAL</td><td>@@@START_TIME@@@ - @@@END_TIME@@@</td></tr>
+<tr><td style="width:20%" bgcolor="AFBCBE">MFT SUPPORT CONTACT</td><td><font size="2">@@@MFT_OWNER@@@</font></td></tr>
+<tr><td style="width:20%" bgcolor="AFBCBE">USER CONTACT</td><td><font size="2">@@@USER_OWNER@@@</font></td></tr>
+</table>
+
+<br><br>
+
+<table style="width:100%"  border="1" align="center">
+<tr bgcolor="BBF1FA">
+<th colspan="7" align="center" style="width:100%">Failed Trasnfer Detail</th>
+</tr>
+<tr bgcolor="F44822">
+<th style="width:10%">AGENT</th><th style="width:10%">INTERFACE</th><th style="width:10%">DIRECTION</th><th style="width:20%">FILE</th><th style="width:10%">ID</th><th style="width:20%">DATE</th><th style="width:20%">FAILURE</th>
+</tr>
+
